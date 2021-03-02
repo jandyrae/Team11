@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Team11</string>
+    <string name="StudyTimeApplication">CourseBook / StudyTime</string>
+    <string name="action_settings">Settings</string>
+    <string name="StudyTime">StudyTime</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="restart">Restart</string>
+    <string name="setFormat">Set Format</string>
+    <string name="clearFormat">Clear Format</string>
 </resources>
